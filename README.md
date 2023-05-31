@@ -17,6 +17,6 @@ Contributions to improve the solutions are highly encouraged! If you have a more
 
 ## 📬 Contact
 
-If you have any questions or suggestions regarding the repository, feel free to reach out to me at (mailto:shivanggoyal0204.com).
+If you have any questions or suggestions regarding the repository, feel free to reach out to me at (mailto:shivanggoyal0204@gmail.com).
 
 Happy coding! 😄
